@@ -1,0 +1,4 @@
+Calculates the number of times
+that this tokenizer's nextToken method can be called before
+ it generates an
+  exception.
